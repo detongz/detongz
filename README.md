@@ -2,7 +2,7 @@ Hi, dear visitor 👋
 
 # About me
 - I do tech writing. ✍🏻
-- Employed by UnitedStack-ByteDance-LittleRedBook-ThinkingData-Treelab as backend engineer. 👷🏻‍♂️🔧
+- Worked for UnitedStack -> ByteDance-> LittleRedBook-> ThinkingData -> Treelab as backend engineer. 👷🏻‍♂️🔧
 - DataFunTalk live host and volunteered editor, Apache Seatunnel/DolphinScheduler volunteered editor. ❤️
 
 # Aboud my edited articals
