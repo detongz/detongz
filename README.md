@@ -8,7 +8,7 @@ Hi, dear visitor 👋
 
 # Aboud my edited articals
 
-[Apache Open-source Projects in Modern Data Stacks(EN)](https://blog.devgenius.io/apache-open-source-projects-in-modern-data-stacks-562329260fc),[现代数据堆栈下的 Apache 项目(ZH)](https://mp.weixin.qq.com/s/1S8QL2PFAtFOWL5RG-LLnA)
+[Apache Open-source Projects in Modern Data Stacks(EN)](https://medium.com/dev-genius/apache-open-source-projects-in-modern-data-stacks-562329260fc), [现代数据堆栈下的 Apache 项目(ZH)](https://mp.weixin.qq.com/s/1S8QL2PFAtFOWL5RG-LLnA)
 
 [Databend：新一代云原生数仓的架构与展望](https://zhuanlan.zhihu.com/p/422928412)
 
